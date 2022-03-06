@@ -1,0 +1,179 @@
+{
+	"Items": [
+		{
+			"id": "1",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Vulcanodon.jpg/275px-Vulcanodon.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Вулканодон\",\"style\":{\"size\":60,\"color\":\"#000000\",\"align\":0,\"fontStyle\":1}}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Описание\",\"style\":{\"size\":50,\"color\":\"#000000\",\"align\":0,\"fontStyle\":1}}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Вулканодон обладал небольшими размерами, в длину он составлял 6,5 метров, а в высоту был чуть больше человека, около 1,9 метра. Вес его был около 750 килограммов. Обладал длинными (относительно размеров тела) шеей и хвостом.\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Открытие\",\"style\":{\"size\":50,\"color\":\"#000000\",\"align\":0,\"fontStyle\":1}}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Вулканодона описал палеонтолог Майкл Раат из Университета Витватерсранда в 1972 году. Сначала вулканодон был отнесён к группе всеядных прозауропод, из-за формы зуба, найденного в раскопках. Позже было установлено, что данный зуб принадлежал другому ящеру, который возможно обгладывал тушу вулканодона, после чего Майкл Раат исправил свою же ошибку в описании. Ошибку он совершил из-за отсутствия головы и шеи.\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				}
+			]
+		},
+		{
+			"id": "2",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Agathaumas.jpg/258px-Agathaumas.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Agathaumas\",\"style\":{\"size\":60,\"color\":\"#000000\",\"align\":0,\"fontStyle\":1}}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Agathaumas (лат., от др.-греч. ἀγα- +θαύμας «крайне удивительный») — род динозавров из семейства цератопсид, включающий единственный вид — Agathaumas sylvestris. Жил в маастрихтском веке верхнего мела на территории Северной Америки. Достигал в длины 9 метров, высоты 3 метра и веса 5 тонн. Ископаемые остатки Agathaumas были найдены в округе Суитуотер штата Вайоминг. Впервые описан палеонтологом Копом в 1872 году\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 1,
+					"json": "{\"url\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Agathaumas_sylvestris.jpg/275px-Agathaumas_sylvestris.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"История открытия\",\"style\":{\"size\":50,\"color\":\"#000000\",\"align\":0,\"fontStyle\":1}}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Ископаемые остатки Agathaumas обнаружил американский учёный Ф. Меек в 1872 году при раскопках в штате Вайоминг (США)[1]. Он сообщил об этом известному палеонтологу Эдварду Копу, который немедленно прибыл на место и занялся изучением находки. Латинское название Agathaumas получил потому, что учёные были сильно потрясены размерами животного. В 1897 году художник Чарльз Найт по заказу Э. Коупа сделал ряд рисунков Agathaumas sphenocerus (теперь Monoclonius sphenocerus), которые в 1925 году послужили Уиллису О’Брайну основой для создания образа Agathaumas в фильме «Затерянный мир».\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				}
+			]
+		},
+		{
+			"id": "3",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Acrocanthosaurus_skeleton_%281%29.jpg/275px-Acrocanthosaurus_skeleton_%281%29.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Акрокантозавр\",\"style\":{\"size\":60,\"color\":\"#000000\",\"align\":0,\"fontStyle\":1}}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Акрокантозавр[1] (лат. Acrocanthosaurus, буквально: ящер с высокими шипами) — род гигантских хищных динозавров, живший в нижнемеловую эпоху (125—109 млн лет назад) на территории современных США[2]. Принадлежит к семейству Carcharodontosauridae, близкому к аллозаврам, хотя первоначально считался спинозавридом из-за удлинённых остистых отростков.\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Открытие\",\"style\":{\"size\":50,\"color\":\"#000000\",\"align\":0,\"fontStyle\":1}}"
+				},
+				{
+					"type": 1,
+					"json": "{\"url\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Acrocantosaurus4.jpg/280px-Acrocantosaurus4.jpg\"}"
+				},
+				{
+					"type": 1,
+					"json": "{\"url\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Acrocanthoscale.svg/281px-Acrocanthoscale.svg.png\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Акрокантозавр назван в честь его высоких остистых отростков, от др.-греч. ακρα — высокий, ακανθα — шип или позвоночник и σαύρος — ящерица. Типовой и единственный вид — Acrocanthosaurus atokensis, видовое название которого дано в честь графства Атока в штате Оклахома, где были найдены первые образцы. Название придумано в 1950 году американскими палеонтологами Stovall и Langston младшим\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 0,
+					"json": "{\"text\":\"BLÅHAJ БЛОХЭЙ\",\"style\":{\"size\":60,\"color\":\"#000000\",\"align\":0,\"fontStyle\":1}}"
+				},
+				{
+					"type": 1,
+					"json": "{\"url\":\"https://www.ikea.com/ru/ru/images/products/blahaj-blohey-myagkaya-igrushka-akula__0710175_pe727378_s5.jpg?f=s\"}"
+				},
+				{
+					"type": 1,
+					"json": "{\"url\":\"https://www.ikea.com/ru/ru/images/products/blahaj-blohey-myagkaya-igrushka-akula__0877371_pe633608_s5.jpg?f=s\"}"
+				},
+				{
+					"type": 1,
+					"json": "{\"url\":\"https://www.ikea.com/ru/ru/images/products/blahaj-blohey-myagkaya-igrushka-akula__0877368_pe633607_s5.jpg?f=m\"}"
+				},	
+				{
+					"type": 0,
+					"json": "{\"text\":\"Эта большая, но абсолютно безопасная синяя акула позволит вам познакомиться с загадочным подводным миром. Она плавает очень далеко, ныряет глубоко и издалека услышит биение вашего сердца.\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 0,
+					"json": "{\"text\":\"BRIMNES БРИМНЭС\",\"style\":{\"size\":60,\"color\":\"#000000\",\"align\":0,\"fontStyle\":1}}"
+				},
+				{
+					"type": 1,
+					"json": "{\"url\":\"https://www.ikea.com/ru/ru/images/products/brimnes-stellazh-belyy__0394547_pe561370_s5.jpg?f=s\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Беспорядок можно спрятать за дверцами, а любимые вещи — красиво расставить сверху. Благодаря регулируемым полкам решение будет соответствовать вашим индивидуальным потребностям. В серию БРИМНЭС входит мебель в едином стиле для хранения чего угодно.\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 0,
+					"json": "{\"text\":\"FRIHETEN ФРИХЕТЭН\",\"style\":{\"size\":60,\"color\":\"#000000\",\"align\":0,\"fontStyle\":1}}"
+				},
+				{
+					"type": 1,
+					"json": "{\"url\":\"https://www.ikea.com/ru/ru/images/products/friheten-ugl-div-krov-s-otd-d-hran-shiftebu-temno-seryy__0833843_pe600296_s5.jpg?f=s\"}"
+				},
+				{
+					"type": 1,
+					"json": "{\"url\":\"https://www.ikea.com/ru/ru/images/products/friheten-ugl-div-krov-s-otd-d-hran-shiftebu-temno-seryy__0835026_pe698970_s5.jpg?f=s\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"После комфортного ночного сна ваша спальня или комната для гостей может легко превратиться в гостиную. В отделении для хранения достаточно места, чтобы убрать постельные принадлежности и пижамы.\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 0,
+					"json": "{\"text\":\"LACK ЛАКК\",\"style\":{\"size\":60,\"color\":\"#000000\",\"align\":0,\"fontStyle\":1}}"
+				},
+				{
+					"type": 1,
+					"json": "{\"url\":\"https://www.ikea.com/ru/ru/images/products/lack-lakk-zhurnalnyy-stol-cherno-korichnevyy__0835835_pe601383_s5.jpg?f=s\"}"
+				},
+				{
+					"type": 1,
+					"json": "{\"url\":\"https://www.ikea.com/ru/ru/images/products/lack-lakk-zhurnalnyy-stol-cherno-korichnevyy__0258017_pe401973_s5.jpg?f=s\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Отдельная полка для хранения журналов и т.п. – помогает навести порядок и освобождает место на столе.\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				}
+			]
+		}
+	]
+}
