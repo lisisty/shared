@@ -14,10 +14,6 @@
 				{
 					"type": 0,
 					"json": "{\"text\":\"Тест описывающий AR контент, который воспроизводится при нажатии на кнопку ниже\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
-				},
-				{
-					"type": 3,
-					"json": "{\"text\":\"Открыть\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/blob/master/testgltfs/gangnam_style_volodymyr_zelenskyy.zip?raw=true\\\"}\"}"
 				}
 			]
 		},
@@ -47,6 +43,10 @@
 				{
 					"type": 0,
 					"json": "{\"text\":\"Ископаемые остатки Agathaumas обнаружил американский учёный Ф. Меек в 1872 году при раскопках в штате Вайоминг (США)[1]. Он сообщил об этом известному палеонтологу Эдварду Копу, который немедленно прибыл на место и занялся изучением находки. Латинское название Agathaumas получил потому, что учёные были сильно потрясены размерами животного. В 1897 году художник Чарльз Найт по заказу Э. Коупа сделал ряд рисунков Agathaumas sphenocerus (теперь Monoclonius sphenocerus), которые в 1925 году послужили Уиллису О’Брайну основой для создания образа Agathaumas в фильме «Затерянный мир».\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Открыть\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/zebra_non-commercial.zip\\\"}\"}"
 				}
 			]
 		},
@@ -80,6 +80,10 @@
 				{
 					"type": 0,
 					"json": "{\"text\":\"Акрокантозавр назван в честь его высоких остистых отростков, от др.-греч. ακρα — высокий, ακανθα — шип или позвоночник и σαύρος — ящерица. Типовой и единственный вид — Acrocanthosaurus atokensis, видовое название которого дано в честь графства Атока в штате Оклахома, где были найдены первые образцы. Название придумано в 1950 году американскими палеонтологами Stovall и Langston младшим\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Открыть\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/kitten_non-commercial.zip\\\"}\"}"
 				}
 			]
 		},
@@ -105,6 +109,10 @@
 				{
 					"type": 0,
 					"json": "{\"text\":\"Эта большая, но абсолютно безопасная синяя акула позволит вам познакомиться с загадочным подводным миром. Она плавает очень далеко, ныряет глубоко и издалека услышит биение вашего сердца.\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Открыть\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/jaguar_yaguarete_non-_commercial.zip\\\"}\"}"
 				}
 			]
 		},
@@ -122,6 +130,10 @@
 				{
 					"type": 0,
 					"json": "{\"text\":\"Беспорядок можно спрятать за дверцами, а любимые вещи — красиво расставить сверху. Благодаря регулируемым полкам решение будет соответствовать вашим индивидуальным потребностям. В серию БРИМНЭС входит мебель в едином стиле для хранения чего угодно.\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Открыть\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/duck_non-commercial.zip\\\"}\"}"
 				}
 			]
 		},
@@ -143,6 +155,10 @@
 				{
 					"type": 0,
 					"json": "{\"text\":\"После комфортного ночного сна ваша спальня или комната для гостей может легко превратиться в гостиную. В отделении для хранения достаточно места, чтобы убрать постельные принадлежности и пижамы.\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Открыть\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/2000_jaguar_xj_sport_x308_xj8.zip\\\"}\"}"
 				}
 			]
 		},
@@ -164,6 +180,10 @@
 				{
 					"type": 0,
 					"json": "{\"text\":\"Отдельная полка для хранения журналов и т.п. – помогает навести порядок и освобождает место на столе.\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Открыть\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
 				}
 			]
 		}
