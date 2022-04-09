@@ -1,0 +1,752 @@
+{
+	"Items": [
+		{
+			"id": "1",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/t/allosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Аллозавр\",\"style\":{\"size\":40,\"color\":\"#000000\",\"align\":0,\"fontStyle\":1}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/zebra_non-commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "2",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/o/alocodon-1.png\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Алокодон\",\"style\":{\"size\":40,\"color\":\"#000000\",\"align\":0,\"fontStyle\":1}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/zebra_non-commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "3",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/te/alxasaurus.gif\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Алшазавр\",\"style\":{\"size\":40,\"color\":\"#000000\",\"align\":0,\"fontStyle\":1}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/kitten_non-commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/p/alaskacephale-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Аляскацефал\",\"style\":{\"size\":40,\"color\":\"#000000\",\"align\":0,\"fontStyle\":1}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/jaguar_yaguarete_non-_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/p/amtocephale.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Амтоцефал\",\"style\":{\"size\":40,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/duck_non-commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/a/ankylosaurus.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Анкилозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/2000_jaguar_xj_sport_x308_xj8.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		},
+		{
+			"id": "aiejfoerieobjrrgefwef",
+			"components": [
+				{
+					"type": 1,
+					"json": "{\"url\":\"http://dinosaurs.afly.ru/ii/z/apatosaurus-m.jpg\"}"
+				},
+				{
+					"type": 0,
+					"json": "{\"text\":\"Апатозавр\",\"style\":{\"size\":45,\"color\":\"#000000\",\"align\":0,\"fontStyle\":0}}"
+				},
+				{
+					"type": 3,
+					"json": "{\"text\":\"Посмотреть в AR\",\"action\":0,\"actionJson\":\"{\\\"contentUrl\\\":\\\"https://github.com/lisisty/shared/raw/master/testgltfs/bengal_cat__non_commercial.zip\\\"}\"}"
+				}
+			]
+		}
+	]
+}
